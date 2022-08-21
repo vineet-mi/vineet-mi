@@ -9,7 +9,7 @@ I am working on my own portfolio Website.
   <img align="left" alt="Vineet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vineet-mishra-c1s2e3/">
-  <img align="left" alt="Vineet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+  <img align="left" alt="Vineet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" />
 </a>
 </p>
 
