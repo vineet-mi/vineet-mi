@@ -8,12 +8,18 @@ I am working on my own portfolio Website.
 <a href="https://www.linkedin.com/in/vineet-mishra-c1s2e3/">
   <img align="left" alt="Vineet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.linkedin.com/in/vineet-mishra-c1s2e3/">
+  <img align="left" alt="Vineet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+</a>
 <br>
+<br>
+
 <details>
 <summary>Click for More</summary>
 <p align="center">
    <h1>
     Technology Stack
   </h1>
+  
 </p>
 </details>
