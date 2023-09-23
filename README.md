@@ -1,43 +1,29 @@
-# Hi everyone :wave: I'm Vineet Mishra,
+### Hi there! :wave: I'm Vineet Mishra,
+
 <a href="https://twitter.com/VineetM2510">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Vineet Mishra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vineet-mishra-c1s2e3/">
-  <img align="left" alt="Vineet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vineet Mishra | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br/>
-hi, i'm Vineet Mishra, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm Vineet Mishra, a passionate self-taught full-stack web developer and a freelance software engineer based in India. My passion for software lies in turning creative ideas into reality, crafting elegant user interfaces, and building robust software solutions.
 
+🌟 **About Me:**
+- :computer: Full-Stack Developer (MERN Stack)
+- :rocket: Tech Enthusiast
+- 📚 Continuous Learner
+- 💼 Freelance Software Engineer
+- 💻 Coding Platform Manager
 
-<details>
-<summary>Click for More</summary>
-<p align="center">
-   <h1>
-    Technology Stack
-  </h1>
-  <ul>
-     <li>
-        Java
-     </li>
-     <li>
-        Python
-     </li>
-     <li>
-        JavaScript
-     </li>
-     <li>
-        Html & Css
-     </li>
-     <li>
-        React
-     </li>
-     <li>
-        Angular
-     </li>
-     <li>
-        Bootstrap
-     </li>
-  </ul>
-</p>
-</details>
+**Technology Stack:**
+- Java
+- Python
+- JavaScript
+- HTML & CSS
+- React
+- Angular
+- Bootstrap
+
+Feel free to connect with me on [Instagram](https://www.instagram.com/dev_zenith_/) or [LinkedIn](https://www.linkedin.com/in/vineet-mishra-c1s2e3/) to stay updated on my projects and tech adventures. Let's collaborate and build amazing things together!
