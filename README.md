@@ -8,6 +8,9 @@
 </a>
 
 <br/>
+<br/>
+<br/>
+<br/>
 I'm Vineet Mishra, a passionate self-taught full-stack web developer and a freelance software engineer based in India. My passion for software lies in turning creative ideas into reality, crafting elegant user interfaces, and building robust software solutions.
 
 🌟 **About Me:**
