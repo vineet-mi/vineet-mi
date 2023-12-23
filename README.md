@@ -9,10 +9,10 @@ I'm Vineet Mishra, is a passionate self-taught full-stack web developer and a fr
 
 🌟 **About Me:**
 - :computer: Full-Stack Developer (MERN Stack)
-- :rocket: Tech Enthusiast
-- 📚 Continuous Learner
-- 💼 Freelance Software Engineer
-- 💻 Coding Platform Manager
+- :rocket: Tech Enthusiast.
+- 📚 Continuous Learner.
+- 💼 Freelance Software Engineer.
+- 💻 Coding Platform Manager.
 
 **Technology Stack:**
 - C++
