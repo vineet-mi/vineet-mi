@@ -5,9 +5,6 @@
 <a href="https://www.instagram.com/justbeingvineet/">
   <img align="left" alt="Vineet Mishra | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
 </a>
-<a href="https://www.instagram.com/justbeingvineet/">
-  <img align="left" alt="Vineet Mishra | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
-</a>
 
 <br/>
 <br/>
