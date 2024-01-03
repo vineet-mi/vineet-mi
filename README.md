@@ -1,6 +1,6 @@
 ### Hi there! :wave: I'm Vineet Mishra,
 <a href="https://www.linkedin.com/in/vineet-mishra-c1s2e3/">
-  <img align="left" alt="Vineet Mishra | LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Vineet Mishra | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
 </a>
 
 <br/>
